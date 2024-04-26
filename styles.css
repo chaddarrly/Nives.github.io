@@ -1,0 +1,50 @@
+body{
+ background: linear-gradient(360deg,gold, pink);
+  
+}
+h1{
+  margin: auto;
+  text-align: center;
+}
+
+.about{
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  display: block;
+  width: 50%;
+}
+
+.things-learned li{
+  list-style-type: '-';
+ 
+}
+
+ .img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ }
+
+ .reflection{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+ }
+ p {
+   text-indent: 30px;
+ }
+ h3 {
+   text-align: center;
+ }
+ #integration{
+   border-bottom: 2px solid black;
+   border-bottom-width: 2px;
+
+ }
+
+
+ 
